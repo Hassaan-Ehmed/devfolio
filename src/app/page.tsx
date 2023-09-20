@@ -1,20 +1,13 @@
-import Hero from '@/components/Hero'
+import Home from '@/app/home/page'
 import Navbar from '@/components/Navbar'
 
 import React from 'react'
 
-export default function Home() {
+export default function page() {
   return (
     
    <>
-
-
-
-
-<Navbar/>
-<Hero/>
-
-
+<Home/>
   </>
   )
 }

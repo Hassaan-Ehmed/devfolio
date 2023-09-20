@@ -24,7 +24,7 @@ export default function Navbar() {
 
 <div className='w-[10%] h-[100%] flex justify-center items-center' >
 
-<Moon color='white'/>
+<Moon color='white' className='cursor-pointer'/>
 
 </div>
 
