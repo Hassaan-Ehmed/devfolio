@@ -1,13 +1,12 @@
 "use client"
 import React from 'react'
 import  AvatarComponent  from '../components/Avatar'
-import MenubarComponent from '../components/MenuBar'
+import TabsComponent from './Tabs'
 import  {Moon} from 'lucide-react';
 
 export default function Navbar() {
   return (
-    <div className='h-[4vw] w-[100%] flex justify-between items-center  backdrop-blur-lg
-               [ bg-gradient-to-b from-green-600 to-emerald-400 ]
+    <div className='h-[4vw]  w-[100%] flex justify-between items-center  backdrop-blur-lg 
                [ shadow-black/70 shadow-2xl ]'>
 
 
@@ -19,13 +18,13 @@ export default function Navbar() {
 
 
 <div className='w-[80%] h-[100%] flex justify-center items-center' >
-<MenubarComponent />
+<TabsComponent />
 
 </div>
 
 <div className='w-[10%] h-[100%] flex justify-center items-center' >
 
-<Moon/>
+<Moon color='white'/>
 
 </div>
 
