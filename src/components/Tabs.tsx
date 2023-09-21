@@ -6,7 +6,7 @@ import {
   Tabs,
   TabsList,
   TabsTrigger,
-} from "@/components/ui/tabs"
+} from "@/components/ui/tabss"
 import { useEffect } from 'react';
 
 export default function TabsDemo() {

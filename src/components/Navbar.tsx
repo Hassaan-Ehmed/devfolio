@@ -6,7 +6,7 @@ import  {Moon} from 'lucide-react';
 
 export default function Navbar() {
   return (
-    <div className='h-[4vw]  w-[100%] flex justify-between items-center  backdrop-blur-lg 
+    <div className='h-[4vw]  bg-black  w-[100%] flex justify-between items-center  backdrop-blur-lg 
                [ shadow-black/70 shadow-2xl ]'>
 
 

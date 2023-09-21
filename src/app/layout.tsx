@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className='h-screen w-[100%] bg-[#0C0C0D]'>
+      <body className='h-screen w-[100%] bg-[white]'>
         
 
       <Navbar/>
