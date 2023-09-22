@@ -19,7 +19,7 @@ export default function Skills() {
 
 
 
-<div className='w-[100%] h-[80vw]  flex flex-col justify-start items-center'>
+<div className='w-[100%] h-[48.5vw]  flex flex-col justify-start items-center'>
 
 
 <div className='h-[50vw] w-[97%] bg-white'>
