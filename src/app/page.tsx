@@ -1,4 +1,5 @@
 import Home from '@/app/home/page'
+import Experience from '@/components/Experience'
 import Navbar from '@/components/Navbar'
 import Projects from '@/components/Projects'
 import Skills from '@/components/Skills'
@@ -12,6 +13,9 @@ export default function page() {
 <Home/>
 <Skills/>
 <Projects/>
+<Experience/>
+
+
   </>
   )
 }

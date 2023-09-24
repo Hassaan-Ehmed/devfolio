@@ -1,13 +1,11 @@
 import { Button } from "@/components/ui/button"
-import { Card,  CardContent,  CardDescription,  CardFooter,  CardHeader,  CardTitle,} from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
+import { Card,} from "@/components/ui/card"
 import {  Tabs,  TabsContent,  TabsList,  TabsTrigger,} from "@/components/ui/tabs"
 import Image from "next/image"
 
 
 
-export function TabsForSkill() {
+export function TabsForSkill() {    
   return (
     <Tabs defaultValue="account" className="w-[100%] mt-8 flex flex-col items-center justify-center">
       
@@ -147,6 +145,14 @@ export function TabsForSkill() {
         </Card>
       </TabsContent>
      
-    </Tabs>
-  )
+
+
+<a href="#_" className="px-5 py-2.5 mt-6 font-medium bg-black hover:bg-black/90 hover:text-[#28E98C] text-[#28E98C] rounded-lg text-sm">
+See more
+</a>
+
+</Tabs>
+
+
+)
 }

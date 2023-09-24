@@ -6,10 +6,10 @@ export default function Projects() {
    <>
 
 
-<div className='  flex justify-start items-center'>
+<div className='  flex justify-start items-center bg-[#28E98C]'>
 
 <div className='w-[25%] h-[5vw] flex justify-center items-center'>
-<h1  className='text-[37px] '><u>My Projects</u></h1>    
+<h1  className='text-[37px]  text-black font-semibold'><u>My Projects</u></h1>    
 </div>
 
 </div>

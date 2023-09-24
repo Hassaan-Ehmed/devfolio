@@ -9,10 +9,10 @@ export default function Skills() {
 
 
 
-<div className='  flex justify-start items-center'>
+<div className='  flex justify-start items-center bg-[#28E98C]  '>
 
 <div className='w-[25%] h-[5vw] flex justify-center items-center'>
-<h1  className='text-[37px] '><u>Skills & Expertise</u></h1>    
+<h1  className='text-[37px] text-[black] font-semibold'><u>Skills & Expertise</u></h1>    
 </div>
 
 </div>
@@ -26,7 +26,9 @@ export default function Skills() {
 
 <TabsForSkill/>
 
+
 </div>
+
 
 </div>
 
