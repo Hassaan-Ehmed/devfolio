@@ -6,9 +6,9 @@ export default function Experience() {
     
     {/* <!-- component --> */}
 
-    <div className='  flex justify-start items-center bg-[#28E98C]'>
+    <div className='  flex justify-start items-center  mt-[60px]'>
 
-<div className='w-[25%] h-[5vw] flex justify-center items-center '>
+<div className='w-[25%] h-[5vw] flex justify-center items-center  bg-[#28E98C]  rounded-r-full'>
 <h1  className='text-[37px]  text-black font-semibold'><u>Experience</u></h1>    
 </div>
 
@@ -22,7 +22,7 @@ export default function Experience() {
     <div className="mb-8 flex justify-between items-center w-full right-timeline">
       <div className="order-1 w-5/12"></div>
       <div className="z-20 flex items-center order-1 bg-shadow-xl bg-[#37474F] w-8 h-8 rounded-full">
-        <h1 className="mx-auto font-semibold text-lg  text-white">1</h1>
+        <h1 className="mx-auto font-semibold text-lg   text-white">1</h1>
       </div>
       <div className="order-1 bg-[#28E98C] rounded-lg shadow-xl w-5/12 px-6 py-4">
         <h3 className="mb-3 font-bold text-black text-xl">Frontend Development <span className='ml-2 font-semibold'>[ 2 years ]</span></h3>

@@ -6,9 +6,9 @@ export default function Projects() {
    <>
 
 
-<div className='  flex justify-start items-center bg-[#28E98C]'>
+<div className='  flex justify-start items-center '>
 
-<div className='w-[25%] h-[5vw] flex justify-center items-center'>
+<div className='w-[25%] h-[5vw] flex justify-center items-center  bg-[#28E98C]  rounded-r-full '>
 <h1  className='text-[37px]  text-black font-semibold'><u>My Projects</u></h1>    
 </div>
 

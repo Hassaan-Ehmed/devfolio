@@ -17,7 +17,7 @@ const activeApply = "bg-[#28E98C]  text-white/50  text-foreground shadow"
 
   
   return (
-    <Tabs defaultValue="account" className="w-[400px]">
+    <Tabs defaultValue="account" className="w-[400px] ">
       <TabsList className="grid w-full grid-cols-4">
        <Link href={`/`}><TabsTrigger value="Home" className={pathName == "/" ? activeApply:""} >Home</TabsTrigger></Link>
        <Link href={`/about`}><TabsTrigger value="About"  className={pathName == "/about" ? activeApply:""}>About</TabsTrigger></Link>
