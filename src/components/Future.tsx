@@ -3,14 +3,14 @@ import React from 'react'
 export default function Future() {
   return (
     <>
+<div className=' flex justify-start items-start  mt-5    h-[7vw]'>
 
-<div className='  flex justify-start items-center mt-20 mb-10'>
-
-<div className='w-[25%] h-[5vw] flex justify-center items-center  bg-[#28E98C]  rounded-r-full'>
-<h1  className='text-[37px]  text-black font-semibold'><u>Future Tech</u></h1>    
+<div className='w-[25%] h-[5vw] flex justify-center items-center bg-[white] shadow-lg  rounded-r-lg'>
+<h1  className='text-[37px] text-[#28E98C] font-semibold mr-[70px]'>Future Tech</h1>    
 </div>
 
 </div>
+
       <section  className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 mb-12">
         <article>
     

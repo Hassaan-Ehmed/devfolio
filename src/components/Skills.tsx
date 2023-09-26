@@ -9,10 +9,10 @@ export default function Skills() {
 
 
 
-<div className='  flex justify-start items-center  '>
+<div className=' flex justify-start items-start  mt-5    h-[7vw]'>
 
-<div className='w-[25%] h-[5vw] flex justify-center items-center bg-[#28E98C]  rounded-r-full'>
-<h1  className='text-[37px] text-[black] font-semibold'><u>Skills & Expertise</u></h1>    
+<div className='w-[25%] h-[5vw] flex justify-center items-center bg-[white] shadow-lg  rounded-r-lg'>
+<h1  className='text-[37px] text-[#28E98C] font-semibold ml-5'>Skills & Expertise</h1>    
 </div>
 
 </div>

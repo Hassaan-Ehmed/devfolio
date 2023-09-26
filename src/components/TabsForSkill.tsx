@@ -17,7 +17,7 @@ export function TabsForSkill() {
 
 
       <TabsContent value="account" className="w-[65%] mt-[30px]">
-        <Card className="h-[32vw] bg-[#eeeeee]  flex justify-center gap-12 overflow-x-hidden overflow-y-auto shadow-[#28E98C_0px_30px_40px_-7px]">
+        <Card className="h-[32vw] bg-[#eeeeee]  flex justify-center gap-12 overflow-x-hidden overflow-y-auto shadow-[#28E98C_0px_6px_17px_0px,_#28E98C_0px_1px_1px_0px]">
          {/* <CardContent className=" h-[5vw] w-[5vw] bg-slate-600 ml-14 rounded-full flex justify-center items-center absolute">
 <Image src={'/images/c++.png'} alt="c++" fill={true}   className="relative"/>
           </CardContent> */}
@@ -81,7 +81,7 @@ export function TabsForSkill() {
         </Card>
       </TabsContent>
       <TabsContent value="password" className="w-[65%] mt-[30px]">
-        <Card className="h-[32vw] bg-[#eeeeee] flex  justify-center gap-12 overflow-x-hidden overflow-y-auto shadow-[#28E98C_0px_30px_40px_-7px]">
+        <Card className="h-[32vw] bg-[#eeeeee] flex  justify-center gap-12 overflow-x-hidden overflow-y-auto  shadow-[#28E98C_0px_6px_17px_0px,_#28E98C_0px_1px_1px_0px]">
          {/* <CardContent className=" h-[5vw] w-[5vw] bg-slate-600 ml-14 rounded-full flex justify-center items-center absolute">
 <Image src={'/images/c++.png'} alt="c++" fill={true}   className="relative"/>
           </CardContent> */}
@@ -147,7 +147,7 @@ export function TabsForSkill() {
      
 
 
-<a href="#_" className="px-5 py-2.5 mt-6 font-medium bg-black hover:bg-black/90 hover:text-[#28E98C] text-[#28E98C] rounded-lg text-sm">
+<a href="#_" className="px-5 py-2.5 mt-8 font-medium bg-black hover:bg-black/90 hover:text-[#28E98C] text-[#28E98C] rounded-lg text-sm">
 See more
 </a>
 

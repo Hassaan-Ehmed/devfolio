@@ -24,9 +24,8 @@ export default function Navbar() {
 
 <div className='w-[13%] h-[100%] flex justify-around items-center' >
 
-<div className=''>
-<Moon color='white' className='cursor-pointer text-[10vh] '/>
-</div>
+<h1 className='text-white/70'><code>~ Developer</code></h1>
+
 
 <div className=' block md:hidden'>
 

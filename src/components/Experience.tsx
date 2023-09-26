@@ -6,13 +6,14 @@ export default function Experience() {
     
     {/* <!-- component --> */}
 
-    <div className='  flex justify-start items-center  mt-[60px]'>
+    <div className=' flex justify-start items-start  mt-5    h-[7vw]'>
 
-<div className='w-[25%] h-[5vw] flex justify-center items-center  bg-[#28E98C]  rounded-r-full'>
-<h1  className='text-[37px]  text-black font-semibold'><u>Experience</u></h1>    
+<div className='w-[25%] h-[5vw] flex justify-center items-center bg-[white] shadow-lg  rounded-r-lg'>
+<h1  className='text-[37px] text-[#28E98C] font-semibold mr-[88px]'>Experience  </h1>    
 </div>
 
 </div>
+
 
 
 <div className="container bg-white mx-auto w-full h-[58vw]">
