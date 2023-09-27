@@ -9,17 +9,17 @@ export default function Education() {
 
 
 
-<div className=' flex justify-center items-start  mt-6  h-[5vw]'>
+<div className=' flex justify-center items-start  mt-12  h-[5vw]'>
     
     
         
-<div className='w-[20%] h-[4vw] bg-[white] text-center shadow-lg  rounded-lg -mt-2'>
+<div className='w-[20%] h-[4vw] bg-[white] text-center shadow-lg  rounded-lg mt-4'>
 <h1  className='text-[32px] text-[#28E98C] font-semibold '>My Education</h1>    
 </div>
 
 </div>
 
-<div className='container  h-[40vw] w-[100%]  flex justify-between items-center'>            
+<div className='container  h-[40vw] w-[100%]  flex justify-between items-center -mt-5'>            
 
 <div className=' w-[50%] h-[40vw] flex justify-center items-center '>
 
